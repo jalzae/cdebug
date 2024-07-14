@@ -7,8 +7,6 @@ function log(...args) {
   if (nodeEnv == 'development') console.log(`log ${newDate} :`, ...args)
 }
 
-log('test')
-
 
 module.exports = {
   log

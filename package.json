@@ -1,5 +1,5 @@
 {
-  "name": "cdebug",
+  "name": "jalz-cdebug",
   "version": "1.0.0",
   "description": "small plugins for debug javascript project",
   "main": "index.js",
