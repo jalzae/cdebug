@@ -8,5 +8,8 @@
   },
   "author": "jalzae",
   "license": "ISC",
-  "github":"https://github.com/jalzae/cdebug"
+  "github": "https://github.com/jalzae/cdebug",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
 }
