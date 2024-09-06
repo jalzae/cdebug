@@ -1,16 +1,20 @@
 {
   "name": "jalz-cdebug",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "small plugins for debug javascript project",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
-    "test": "npm run test"
+    "test": "jest"
   },
   "author": "jalzae",
   "license": "ISC",
   "github": "https://github.com/jalzae/cdebug",
   "dependencies": {
-    "dotenv": "^16.4.5"
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.5",
+    "jest": "^29.7.0",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
   }
 }
